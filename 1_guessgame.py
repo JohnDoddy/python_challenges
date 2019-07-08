@@ -1,3 +1,7 @@
+# This should let the user guess a number that's already
+# chosen by Python
+# By John Doddy
+
 import random
 print("Welcome to the guessgame: ")
 print("I'm thinking of a number between 0 and 10...")
