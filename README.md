@@ -4,3 +4,4 @@
 | No. | Python Challenge | Status |
 |-----|------------------|--------|
 | 1. | Guess Game Challenge | ✔ |
+| 2. | Largest Number in a list | ✔ |
