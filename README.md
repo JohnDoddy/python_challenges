@@ -1,2 +1,6 @@
 # Python Challenges
 > This repository contains the challenges I've done in Python
+
+| No. | Python Challenge | Status |
+|-----|------------------|--------|
+| 1. | Guess Game Challenge | ✔ |
