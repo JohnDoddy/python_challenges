@@ -5,3 +5,4 @@
 |-----|------------------|--------|
 | 1. | Guess Game Challenge | ✔ |
 | 2. | Largest Number in a list | ✔ |
+| 3. | Divisibility Test | ✔ |
