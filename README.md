@@ -8,3 +8,4 @@
 | 3. | Divisibility Test | ✔ |
 | 4. | Check if you are of age | ✔ |
 | 5. | Loan repayment calculator | ✔ | 
+| 6. | Binary Search | ✔ |
