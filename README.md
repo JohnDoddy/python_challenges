@@ -9,3 +9,5 @@
 | 4. | Check if you are of age | ✔ |
 | 5. | Loan repayment calculator | ✔ | 
 | 6. | Binary Search | - |
+| 7. | Return your python version | ✔ |
+| 8. | Dice Simulator | ✔ |
