@@ -1,3 +1,5 @@
+# this program should simulate a dice by choosing a random number between 1 and 6
+
 import random
 
 roll_again = True
