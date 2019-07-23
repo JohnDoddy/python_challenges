@@ -14,3 +14,5 @@
 | 9. | Class and objects | ✔ |
 | 10. | Return sum of a list | ✔ |
 | 11. | Check if your number is in a list | ✔ |
+| 12. | Fibonnacci Sequence | ✔ |
+| 13. | FIZZBUZZ! | ✔ |
