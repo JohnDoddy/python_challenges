@@ -11,3 +11,6 @@
 | 6. | Binary Search | - |
 | 7. | Return your python version | ✔ |
 | 8. | Dice Simulator | ✔ |
+| 9. | Class and objects | ✔ |
+| 10. | Return sum of a list | ✔ |
+| 11. | Check if your number is in a list | ✔ |
