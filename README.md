@@ -17,3 +17,5 @@
 | 12. | Fibonnacci Sequence | ✔ |
 | 13. | FIZZBUZZ! | ✔ |
 | 14. | Password System | ✔ |
+| 15. | Divisor 2 | ✔ |
+
