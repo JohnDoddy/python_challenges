@@ -1,22 +1,27 @@
 # implenting binary search
 # by John Doddy
 
-# data set
-prime = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+# our data set
+data = [1, 2, 3, 4, 5, 6]
+target_value = int(input("What's the target value: "))
 
-# number we are looking for
-target_value = int(input("What's the number you want to check"))
+# the binary search algorithm
+def binary_search(data, target_value):
+    minimum = data[0]
+    maximum = len(data) - 1
+    while minimum <= maximum:
+        midium = int(maximum / minimum)
+        
+        if data[midium] == target_value:
+            print("Yes {} is on our list".format(target_value))
+        if target_value > data[midium]:
+            minimum = midium + 1
+        else:
+            maximum = midium - 1
+    if minimum > maximum:
+        print("Your value is not on the list")
+         
+            
+binary_search(data, target_value)
 
-# function implementation
-def binary_search(prime, target_value):
-    minimum = 0
-    maximum = len(prime) - 1
-    average = (minimum + maximum) / 2 
-    guess = None
-    while minimum < maximum:
-        if prime[average] == target_value:
-            return average
-        elif prime[average] < target_value:
-            return average + 1 + binary_search(prime[average + 1], target_value)
-        else: 
-            return 
+        
