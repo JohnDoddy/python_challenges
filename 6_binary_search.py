@@ -1,4 +1,4 @@
-# implenting binary search
+# implementing binary search
 # by John Doddy
 
 # our data set
