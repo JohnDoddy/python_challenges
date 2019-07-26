@@ -19,3 +19,4 @@
 | 14. | Password System (While Loop) | ✔ |
 | 15. | Divisor 2 | ✔ |
 | 16. | Joining Dictionaries | ✔ |
+| 17. | Working with dictionaries/ hashmaps| ✔ |
