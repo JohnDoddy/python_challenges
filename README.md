@@ -22,4 +22,4 @@
 | 17. | Working with dictionaries/ hashmaps| ✔ |
 | 18. | A meal calculator | ✔ |
 | 19. | Check character types | ✔ |
-| 20. | Rock, paper, scissors | - |
+| 20. | Rock, paper, scissors | ✔ |
