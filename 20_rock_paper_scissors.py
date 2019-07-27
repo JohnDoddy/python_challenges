@@ -10,24 +10,20 @@ def game(options):
         bot_choice = bot(options)
         print("I choose {}!".format(bot_choice))
         if bot_choice != user_choice:
-            if bot_choice is "rock" and user_choice is "scissors":
-                print("I win!")
-            elif user_choice is "rock" and bot_choice is "scissors":
-                print("I lose")
-            elif user_choice is "rock" and bot_choice is "paper":
-                print("I lose")
-            elif bot_choice is "paper" and user_choice is "rock":
+            if user_choice == "rock" and bot_choice == "scissors":
+                print("You win")
+            elif user_choice == "rock" and bot_choice == "paper":
                 print("I win")
-            elif bot_choice is "scissors" and user_choice is "paper":
+            elif user_choice == "paper" and bot_choice == "rock":
+                print("You win")
+            elif user_choice == "paper" and bot_choice == "scissors":
                 print("I win")
-            elif user_choice is "scissors" and bot_choice is "paper":
-                print("I lose")
-            elif bot_choice is "paper" and user_choice is "rock":
+            elif user_choice == "scissors" and bot_choice == "paper":
+                print("You win")
+            elif user_choice == "scissors" and bot_choice == "rock":
                 print("I win")
-            elif user_choice is "scissors" and bot_choice is "paper":
-                print("I lose")
-        elif user_choice not in options:
-            print("Use either {}".format(options))
+            else:
+                print("Use either {}".format(options))
         else:
             print("That's a tie!")
 
