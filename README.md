@@ -20,3 +20,4 @@
 | 15. | Divisor 2 | ✔ |
 | 16. | Joining Dictionaries | ✔ |
 | 17. | Working with dictionaries/ hashmaps| ✔ |
+| 18. | A meal calculator | ✔ |
