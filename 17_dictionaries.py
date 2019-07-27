@@ -1,7 +1,7 @@
 # a dictionary/ hashtable
 values = {"name":"John", "age": 19}
 
-# iterating over a dictionary
+# traversing a dictionary
 for key, value in values.items():
     print("My {} is {}".format(key, value))
 
