@@ -23,3 +23,4 @@
 | 18. | A meal calculator | ✔ |
 | 19. | Check character types | ✔ |
 | 20. | Rock, paper, scissors | ✔ |
+| 21. | Palindrome | ✔ |
