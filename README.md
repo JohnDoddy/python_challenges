@@ -24,3 +24,4 @@
 | 19. | Check character types | ✔ |
 | 20. | Rock, paper, scissors | ✔ |
 | 21. | Palindrome | ✔ |
+| 22. | Odd or Even hackerrank challenge | ✔ |
