@@ -26,3 +26,4 @@
 | 21. | Palindrome | ✔ |
 | 22. | Odd or Even hackerrank challenge | ✔ |
 | 23. | Hackerrank - Multiply by n | ✔ |
+| 24. | Hackerrank - if year is leap | ✔ |
