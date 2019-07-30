@@ -25,3 +25,4 @@
 | 20. | Rock, paper, scissors | ✔ |
 | 21. | Palindrome | ✔ |
 | 22. | Odd or Even hackerrank challenge | ✔ |
+| 23. | Hackerrank - Multiply by n | ✔ |
