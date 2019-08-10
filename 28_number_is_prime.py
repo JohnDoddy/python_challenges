@@ -1,5 +1,4 @@
 # prime number is only divisible by 1 and itself
-import time  # test how fast this implementation is 
 
 def prime(number):
     """
